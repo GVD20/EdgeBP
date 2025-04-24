@@ -2,3 +2,5 @@ build/
 .devcontainer/
 sdkconfig
 .vscode/
+sdkconfig.defaults
+sdkconfig.old
